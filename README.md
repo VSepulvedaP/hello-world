@@ -1,2 +1,3 @@
 # hello-world
-Mi rpimer repsoitorio de prueba
+Mi Primer Repositorio de prueba
+#Valentin Sepulveda
